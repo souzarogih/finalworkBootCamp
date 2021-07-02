@@ -1,0 +1,10 @@
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('2020-11-10T11:10:00Z', 1,'064.650.094-55', 1700.00, 'André');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('2001-05-09T11:10:00Z', 2,'065.651.095-56', 2200.00, 'Paulo');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('2021-02-16T11:10:00Z', 3,'066.652.096-57', 3500.00, 'Pedro');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('1993-10-25T11:10:00Z', 1,'067.653.097-58', 1300.00, 'Tomé');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('1999-09-30T11:10:00Z', 3,'068.654.098-59', 2195.00, 'Lucas');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('2003-12-31T11:10:00Z', 2,'069.655.099-60', 3000.00, 'João');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('1976-06-01T11:10:00Z', 1,'070.656.100-61', 2100.00, 'Barnabé');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('1996-04-25T11:10:00Z', 2,'071.657.101-62', 970.00, 'Felipe');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('2007-12-07T11:10:00Z', 2,'072.658.102-63', 1500.00, 'João Batista');
+INSERT INTO  TB_CLIENT (birth_date, children , cpf , income, name ) values ('2009-03-01T11:10:00Z', 0,'073.659.103-64', 2000.00, 'Maria Madalena');
